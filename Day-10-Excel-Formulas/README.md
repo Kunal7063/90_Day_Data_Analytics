@@ -26,4 +26,5 @@ Finds the lowest value.
 ---
 
 These formulas are essential for data analysis in Excel.
+
 <img width="541" height="333" alt="image" src="https://github.com/user-attachments/assets/21311b9d-a462-4240-b059-c0221d623c70" />
