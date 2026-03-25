@@ -19,11 +19,12 @@ XLOOKUP is a modern replacement for VLOOKUP that allows flexible data searching.
 
 =XLOOKUP(A2, D2:D5, E2:E5)
 
-XLOOKUP simplifies data lookup operations in Excel.
+## XLOOKUP simplifies data lookup operations in Excel.
 
 =XLOOKUP(A2, Sheet2!A2:A5, Sheet2!B2:B5)
 
-🔧 Handling Not Found (Important)
+
+## 🔧 Handling Not Found (Important)
 
 =XLOOKUP(A2, Sheet2!A2:A5, Sheet2!B2:B5, "Not Found")
 
@@ -32,10 +33,10 @@ XLOOKUP simplifies data lookup operations in Excel.
 
 =XLOOKUP(A2, Sheet2!A2:A5, Sheet2!B2:B5, "Not Found")
 
-This allows fetching data from another sheet dynamically.
+This allows you to fetch data from another sheet dynamically.
 
 
-🔁 Bonus (Reverse Lookup – Impossible in VLOOKUP)
+## 🔁 Bonus (Reverse Lookup – Impossible in VLOOKUP)
 
 If your table is:
 
