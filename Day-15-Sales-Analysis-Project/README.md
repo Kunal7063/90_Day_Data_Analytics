@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyze sales data to generate business insights.
+Analyse sales data to generate business insights.
 
 ## Dataset
 
@@ -13,25 +13,25 @@ Includes product, category, sales, and region information.
 - Data Cleaning
 - Data Analysis using Excel formulas
 - Pivot Table Analysis
-- Data Visualization using charts
+- Data Visualisation using charts
 
 ## Key Insights
 
-- Electronics category generated highest sales
-- West region showed strong performance
-- Laptop is the top selling product
+- The electronics category generated the highest sales
+- The West region showed strong performance
+- Laptop is the top-selling product
 - Fashion category needs improvement
 
 ## Tools Used
 
 - Microsoft Excel
 
-🎯 Final Interview-Level Insight
+## 🎯 Final Interview-Level Insight
 
-If interviewer asks:
+If the interviewer asks:
 
 👉 “What insights did you find?”
 
 You should say:
 
-Electronics is the top-performing category contributing the majority of revenue. East region leads in sales performance, while Fashion category shows the lowest sales and needs improvement. Laptop is the highest selling product.
+Electronics is the top-performing category, contributing the majority of revenue. The East region leads in sales performance, while the Fashion category shows the lowest sales and needs improvement. Laptop is the highest-selling product.
