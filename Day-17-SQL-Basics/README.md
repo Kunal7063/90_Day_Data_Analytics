@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learn basic SQL queries to retrieve and analyze data.
+Learn basic SQL queries to retrieve and analyse data.
 
 ## Concepts Covered
 
@@ -12,7 +12,7 @@ Learn basic SQL queries to retrieve and analyze data.
 * Aggregate functions (SUM, AVG)
 * GROUP BY
 
-## Queries Practiced
+## Queries Practised
 
 ### Get all data
 
@@ -47,3 +47,11 @@ GROUP BY category;
 * GROUP BY works like Pivot Tables
 * Aggregate functions help in analysis
 
+🟢Use SQL Online (Best for You Now)
+
+👉 No installation, no setup, start immediately
+
+Recommended:
+DB Fiddle https://www.db-fiddle.com/
+
+SQLite Online https://sqliteonline.com/
