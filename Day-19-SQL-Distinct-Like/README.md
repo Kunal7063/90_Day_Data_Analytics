@@ -33,5 +33,7 @@ SELECT * FROM sales_data WHERE product LIKE '%top%';
 * DISTINCT removes duplicate values
 * LIKE helps in searching text data
 * % represents multiple characters
-* _ represents single character
+* _ represents a single character
 
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/a9e1aef7-6f5a-47f7-bb88-1e509b6c1cd2" />
+<img width="841" height="308" alt="image" src="https://github.com/user-attachments/assets/84c74ebc-ee71-48a8-90ab-f70c2f886f3d" />
